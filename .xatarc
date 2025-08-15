@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Chitra-Devi-M-s-workspace-v0g38p.ap-southeast-2.xata.sh/db/cd_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
