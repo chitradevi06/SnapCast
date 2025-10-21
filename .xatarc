@@ -1,5 +1,5 @@
 {
-  "databaseURL": "https://Chitra-Devi-M-s-workspace-v0g38p.ap-southeast-2.xata.sh/db/cd_snapcast",
+  "databaseURL": "https://Chitra-Devi-M-s-workspace-v0g38p.us-east-1.xata.sh/db/cd_snap",
   "codegen": {
     "output": "src/xata.ts"
   }
